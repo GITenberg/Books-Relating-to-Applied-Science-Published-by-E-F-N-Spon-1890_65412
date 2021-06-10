@@ -1,0 +1,29 @@
+_repo: Books-Relating-to-Applied-Science-Published-by-E-F-N-Spon-1890_65412
+_version: 0.0.1
+creator:
+  author:
+    agent_name: E. & F. N. Spon
+    aliases:
+    - E. & F.N. Spon
+    - Spon, E. & F. N.
+    - E. and F. N. Spon
+    gutenberg_agent_id: '42093'
+    url: http://www.gutenberg.org/2009/agents/42093
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Engineering -- Bibliography -- Catalogs'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcsh 'Science -- Bibliography -- Catalogs'
+- !lcsh 'E. & F. N. Spon -- Catalogs'
+- GITenberg
+title: Books Relating to Applied Science, Published by E. & F. N. Spon, 1890.
+url: http://www.gutenberg.org/ebooks/65412
